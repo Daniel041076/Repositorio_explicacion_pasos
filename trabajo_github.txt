@@ -1,1 +1,3 @@
-trabajo sobre repositorio en git hub
+TRABAJO SOBRE GITHUB
+
+Paso 1: Crear carpeta proyecto, carpeta a la que vamos a hacer el seguimiento.
